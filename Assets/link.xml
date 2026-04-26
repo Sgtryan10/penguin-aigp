@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<linker>
+    <assembly fullname="Google.Protobuf" preserve="all"/>
+    <assembly fullname="Unity.ML-Agents" preserve="all"/>
+</linker>
